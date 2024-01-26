@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+
+ .row{
+	 padding-top: 5px;
+ }
+.container{
+	margin-top: 40px;
+	
+}
+
+
+
+.verde1{
+	background-color: rgb(0, 255, 0);
+	height: 50px;
+	
+}
+
+
+
+.rojo{
+	background-color: rgb(255, 0, 0);
+	
+	
+}	
+
+
+
+
+.rosa{
+	background-color: rgb(255, 0, 255);
+	height: 50px;
+	
+}
+
+.naranja{
+	background-color: rgb(230, 101, 57);
+	height: 150px;
+	
+}
+
+.azul{
+	background-color: rgb(0, 0, 255);
+	height: 80px;
+	
+	
+}
+
+
+.verde2{
+	background-color: rgb(0, 255, 0);
+	height: 30px;
+	
+	
+	
+}
